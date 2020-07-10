@@ -1,0 +1,6 @@
+tfehostname = "tfe.austins-hashi.kots.cloud"
+oauthtoken = "f3a45aa30ec82e9abf4425647dbb8ebfdae46de5"
+githubidentifier = "austinchambers/hashi-replicated-qa"
+orgname = "replicated"
+terraformversion = "0.11.14"
+workspacecount = "25"
